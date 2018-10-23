@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1540306986 source:c:\users\alumno\desktop\memoria dinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1540306857 source:c:\users\alumno\desktop\memoria dinamica\dato.c
+	<stdio.h>
+	<stdlib.h>
+	"dato.h"
+
+1540307177 c:\users\alumno\desktop\memoria dinamica\dato.h
+
